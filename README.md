@@ -1,3 +1,47 @@
+# 👋 Hi, I'm Brijesh Singh
+
+🎯 21+ years of experience in BPO Operations, Healthcare (Payor Side), and Process Excellence  
+🔁 Transitioning into the tech and AI-driven digital transformation space  
+🚀 Passionate about using automation, data, and innovation to drive business efficiency  
+📍Based in Kolkata, India | Open to global roles (UAE, US, Qatar)
+
+---
+
+## 🧠 Current Focus Areas
+
+- 📘 Learning Python & AI to build real-world automation tools
+- 🧩 Exploring how AI can enhance operations, CX, and decision-making in healthcare
+- 🛠️ Building a portfolio of practical projects here on GitHub
+
+---
+
+## 🛠️ Skills & Tools
+
+- 🔹 Operations Management | Lean & Six Sigma Certified  
+- 🔹 Excel Automation | Process Mapping | Root Cause Analysis  
+- 🔹 Git & GitHub | Python (beginner) | Power BI  
+- 🔹 Team Leadership | Client Delivery | Business Strategy
+
+---
+
+## 📂 Projects in Progress
+
+- ✅ Excel to Python automation tools  
+- ✅ Dashboards for performance reporting  
+- ✅ Personal AI assistant for BPO operations
+
+*Stay tuned!*
+
+---
+
+## 💼 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- 📧 Email: your.email@example.com
+
+---
+
+> “You’re never too old to learn, pivot, and lead again — with tech on your side.”
 ## Hi there 👋
 
 <!--
