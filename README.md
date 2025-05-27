@@ -1,60 +1,67 @@
 # 👋 Hi, I'm Brijesh Singh
 
-🎯 21+ years of experience in BPO Operations, Healthcare (Payor and provider Side), and Process Excellence  
-🔁 Transitioning into the tech and AI-driven digital transformation space  
-🚀 Passionate about using automation, data, and innovation to drive business efficiency  
-📍Based in Kolkata, India | Open to global roles (UAE, US, Qatar)
+🎯 21+ years of experience in US Healthcare BPO Operations & Digital Transformation  
+🌍 Based in UAE & India | Open to global roles (UAE | India | US | Ireland | Remote)  
+🚀 Passionate about automation, analytics, and AI-driven innovation in healthcare operations  
 
 ---
 
-## 🧠 Current Focus Areas
+## 🧠 Career Snapshot
 
-- 📘 Learning Python & AI to build real-world automation tools
-- 🧩 Exploring how AI can enhance operations, CX, and decision-making in healthcare
-- 🛠️ Building a portfolio of practical projects here on GitHub
-
----
-
-## 🛠️ Skills & Tools
-
-- 🔹 Operations Management | Lean & Six Sigma Certified  
-- 🔹 Excel Automation | Process Mapping | Root Cause Analysis  
-- 🔹 Git & GitHub | Python (beginner) | Power BI  
-- 🔹 Team Leadership | Client Delivery | Business Strategy
+- 🏢 **Associate Vice President @ Wipro** (17+ years): Led 2800+ FTEs across global sites, managed $100M+ portfolios in Payor & Provider RCM, executed automation and AI initiatives across US healthcare
+- 🏥 **Director @ Zinfytech LLC (UAE)**: Built digital delivery operations from scratch for US & UAE clients
+- 💡 Delivered 50+ automation solutions (Python, .NET, RPA) — 200% production boost & 35% cost savings
+- 🏆 Certified in Lean Six Sigma, ISO 9001 Auditor, and multiple quality awards (DL Shah, LEESA)
+- 💼 Strategic expertise in P&L, CX, SLA compliance, RFP/RFI automation, and client governance
 
 ---
 
-## 📂 Projects in Progress
+## 💻 Tech Journey (In Progress)
 
-- ✅ Excel to Python automation tools  
-- ✅ Dashboards for performance reporting  
-- ✅ Personal AI assistant for BPO operations
+📌 Transitioning into a tech-driven career. Currently learning and building with:
 
-*Stay tuned!*
-
----
-
-## 💼 Let's Connect
-
-- 🔗 [LinkedIn][(https://www.linkedin.com/in/brijeshh-singh/)
-- 📧 Email: brijeshhsingh5@gmail.com
+- 🔹 Python for automation
+- 🔹 Power BI for dashboards
+- 🔹 Git & GitHub for version control
+- 🔹 AI & RPA for intelligent process transformation
 
 ---
 
-> “You’re never too old to learn, pivot, and lead again — with tech on your side.”
-## Hi there 👋
+## 🔧 Skills & Core Expertise
 
-<!--
-**brisin333/Brisin333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠️ Operations Management | Digital Transformation | Process Reengineering
+- 📊 US Healthcare (Payor/Provider) | Revenue Cycle Management | Payment Integrity
+- ⚙️ RPA | Python | .NET Automation | Root Cause Analysis
+- 🧠 Lean Six Sigma | Strategic Planning | SLA/CMS/HIPAA Governance
+- 📈 P&L Leadership | Client Relations | Delivery Excellence
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects in Development
+
+- 📌 Excel to Python automation for audit reporting
+- 📌 Interactive dashboards for healthcare performance metrics
+- 📌 Personal AI assistant to support BPO delivery leads
+- 📌 RPA bot to automate denial management
+
+---
+
+## 📜 Certifications
+
+- ✅ Lean Six Sigma Green Belt
+- ✅ Certified Lean Facilitator
+- ✅ ISO 9001:2000 Auditor | CMMI Contributor
+- 🏅 DL Shah Platinum Quality Award | LEESA Award
+- 📚 PMP (In Progress)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brijeshh-singh/)
+- 🔗 [GitHub](https://github.com/brijeshhsingh)
+- 📧 brijeshh.singhthakur@gmail.com
+
+---
+
+_“Transforming Healthcare with Technology, One Process at a Time.”_
