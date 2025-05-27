@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brijesh Singh
 
-🎯 21+ years of experience in BPO Operations, Healthcare (Payor Side), and Process Excellence  
+🎯 21+ years of experience in BPO Operations, Healthcare (Payor and provider Side), and Process Excellence  
 🔁 Transitioning into the tech and AI-driven digital transformation space  
 🚀 Passionate about using automation, data, and innovation to drive business efficiency  
 📍Based in Kolkata, India | Open to global roles (UAE, US, Qatar)
