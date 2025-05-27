@@ -36,8 +36,8 @@
 
 ## 💼 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn][(https://www.linkedin.com/in/brijeshh-singh/)
+- 📧 Email: brijeshhsingh5@gmail.com
 
 ---
 
